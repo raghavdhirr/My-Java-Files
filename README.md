@@ -7,7 +7,7 @@
 ## INSTALLATION PROCESS📝
 
 * Seach for JDK(Java development Kit) in the browser
-* Open the first link of Oracle Website
+* Open the first link of Oracle Website.
 * Download the JDK from there according to your system requirements.
 * Now search for Environment variables in search bar of your system.
 * Now paste the jdk path in the environment variables and press ok
