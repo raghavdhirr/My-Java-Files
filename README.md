@@ -2,13 +2,13 @@
 
 ## FEATURES🌈
 
- --> HERE YOU CAN FIND JAVA CODES FROM BASIC TO ADVANCE LEVEL
+* HERE YOU CAN FIND JAVA CODES FROM BASIC TO ADVANCE LEVEL
 
 ## INSTALLATION PROCESS📝
 
-* Seach for jdk in the browser
+* Seach for JDK(Java development Kit) in the browser
 * Open the first link of Oracle Website
-* Download the jdk from there according to your system requirements.
+* Download the JDK from there according to your system requirements.
 * Now search for Environment variables in search bar of your system.
 * Now paste the jdk path in the environment variables and press ok
 * Now download any JAVA IDE of your choice and start coding 🔥
