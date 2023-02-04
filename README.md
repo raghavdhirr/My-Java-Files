@@ -20,6 +20,6 @@
 * If you want to contribute to this file you are most welcome. Add the changes which you want to be corrected and contribute to it💪
 
 ## CONNECT WITH ME-
-* [Instagram](https://www.instagram.com/raghvdhir)
+* [![alt text](https://www.flaticon.com/free-icon/instagram_2111463 "image title")](https://instagram.com/raghvdhir)
 * [Twitter](https://www.twitter.com/raghvdhir)
 * [LinkedIn](https://www.linkedin.com/in/raghvdhir)
