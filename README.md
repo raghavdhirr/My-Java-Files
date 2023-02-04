@@ -1,7 +1,6 @@
-# Project Title
-🔥   My-Java-Files
+# 🔥 My-Java-Files
 
-## Features
+## FEATURES
 
  --> HERE YOU CAN FIND JAVA CODES FROM BASIC TO ADVANCE LEVEL
 
@@ -17,8 +16,8 @@
 ## USAGE
  --> If you find any difficulty in any code then you can take support from here. I will update my codes on regular basis
 
-## cONTRIBUTING
+## CONTRIBUTING
  --> If you want to contribute to this file you are most welcome. Add the changes which you want to be corrected and contribute to it.
 
 ## CONNECT WITH ME-
-https://instagram.com/raghvdhir
+[Instagram](https://instagram.com/raghvdhir)
