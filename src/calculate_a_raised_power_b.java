@@ -9,7 +9,7 @@ public class calculate_a_raised_power_b {
         System.out.print("Now enter the value of 'b': ");
         int b = sc.nextInt();
         int original_b = b;
-        int ans = 1;
+        long ans = 1;
         for (int i = 1; i <= b ; i++) {
             ans *= a;
         }
