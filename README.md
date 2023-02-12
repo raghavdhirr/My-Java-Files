@@ -19,10 +19,10 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 ## Languages and tools 🛠️
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+* ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+* ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+* ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </div>     
 
 
@@ -48,7 +48,3 @@ He like to **create and contribute** to open source projects. In his free time, 
 * [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raghvdhir) 
 * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raghvdhir) 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvdhir) 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=raghvdhir&theme=algolia&hide_border=false) 
