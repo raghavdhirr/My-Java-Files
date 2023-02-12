@@ -6,7 +6,28 @@
 </p>
 
 
-* HERE YOU CAN FIND JAVA CODES FROM BASIC TO ADVANCE LEVEL
+
+ Raghav is a **Java Developer** based in India.&nbsp;
+He is passionate about **DSA, coding, Open Source**.
+He like to **create and contribute** to open source projects. In his free time, he does **programming, learning new things** and share his learnings to world.
+
+### I'm open to: 
+- Work oppurtunities
+- Collaborations for projects
+- Developer advocacy oppurtunities 
+---
+
+## Languages and tools 🛠️
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+</div>     
+
+
+---
+
 
 ## INSTALLATION PROCESS📝
 
