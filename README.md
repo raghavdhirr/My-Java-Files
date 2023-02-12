@@ -49,5 +49,6 @@ He like to **create and contribute** to open source projects. In his free time, 
 * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raghvdhir) 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvdhir)
 
-![My Github Streak](https://github-readme-stats.vercel.app/api/pin/?username=raghavdhirr&show_icons=true&theme=dark)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavdhirr&show_icons=true&theme=radical)
+
  
