@@ -7,9 +7,9 @@
 
 
 
- Raghav is a **Java Developer** based in India.&nbsp;
+Raghav is a **Java Developer** based in India.&nbsp;
 He is passionate about **DSA, coding, Open Source**.
-He like to **create and contribute** to open source projects. In his free time, he does **programming, learning new things** and share his learnings to world.
+He like to **create and contribute** to open source projects. In his free time, he does **programming, learning new stuff** and share his learnings to world.
 
 ### I'm open to: 
 - Work oppurtunities
@@ -19,10 +19,10 @@ He like to **create and contribute** to open source projects. In his free time, 
 
 ## Languages and tools 🛠️
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>     
 
 
@@ -44,7 +44,11 @@ He like to **create and contribute** to open source projects. In his free time, 
 ## CONTRIBUTING
 * If you want to contribute to this file you are most welcome. Add the changes which you want to be corrected and contribute to it💪
 
-## CONNECT WITH ME-
-* [Instagram](https://www.instagram.com/raghvdhir)
-* [Twitter](https://www.twitter.com/raghvdhir)
-* [LinkedIn](https://www.linkedin.com/in/raghvdhir)
+## Lets Connect-
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raghvdhir) 
+* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raghvdhir) 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvdhir) 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=raghvdhir&theme=algolia&hide_border=false) 
