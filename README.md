@@ -7,7 +7,7 @@
 
 
 
-Raghav is a **Java Developer** based in India.&nbsp;
+* Raghav is a **Java Developer** based in India.&nbsp;
 He is passionate about **DSA, coding, Open Source**.
 He like to **create and contribute** to open source projects. In his free time, he does **programming, learning new stuff** and share his learnings to world.
 
@@ -47,4 +47,7 @@ He like to **create and contribute** to open source projects. In his free time, 
 ## Lets Connect-
 * [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raghvdhir) 
 * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raghvdhir) 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvdhir) 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvdhir)
+
+![My Github Streak](https://github-readme-stats.vercel.app/api/pin/?username=raghavdhirr&show_icons=true&theme=dark)
+ 
