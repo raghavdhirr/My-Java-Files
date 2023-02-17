@@ -2,12 +2,12 @@
  <h1 align="center">Hi , I'm Raghav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
  <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Student;Learner;Java+Developer%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=Student;Learner;Java+DataStructures+Algorithms%20&center=true&width=500&height=50"></a>
 </p>
 
 
 
-Raghav is a **Java Developer** based in India.&nbsp;
+* Raghav is a **Java Developer** based in India.&nbsp;
 He is passionate about **DSA, coding, Open Source**.
 He like to **create and contribute** to open source projects. In his free time, he does **programming, learning new stuff** and share his learnings to world.
 
@@ -47,4 +47,8 @@ He like to **create and contribute** to open source projects. In his free time, 
 ## Lets Connect-
 * [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raghvdhir) 
 * [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/raghvdhir) 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvdhir) 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghvdhir)
+
+## ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavdhirr&show_icons=true&theme=radical)
+
+ 
