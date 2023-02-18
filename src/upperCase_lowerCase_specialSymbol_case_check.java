@@ -17,7 +17,7 @@ public class upperCase_lowerCase_specialSymbol_case_check {
             }
             System.out.print("Do you wish to continue(y/n): ");
             char ch = sc.next().trim().charAt(0);
-            if (ch == 'n') {
+            if (ch == 'n'){
                 break;
             }
         }
